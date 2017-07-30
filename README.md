@@ -8,9 +8,9 @@ This project is an attempt to solve the 8 queen problem without backtracking. Yo
 Board notations
 -------------
 There are 3 different symbol I use when I draw the chess board:
-> -`-` - Means the given square is under attack.
-> -`0` - Means it is free and not being attacked.
-> -`1` - It has a piece in it.
+> -`-` Means the given square is under attack.
+> -`0` Means it is free and not being attacked.
+> -`1` It has a piece in it.
 
 Side notes
 -------------
