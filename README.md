@@ -17,5 +17,7 @@ Side notes
 > - It is a heuristic algorithm thus it's not guaranted to find the solution for first take but it keeps trying. A random factor is being introduced, the number of takes and thus the time it takes to solve the problem can vary. 
 > - You can define problems without any solution. Thats why I maximized the takes to 5000 (you can change that if you want) to avoid infinite loops.
 
-
+License
+------------
+MIT licensed. Feel free to modify and use it.
 
