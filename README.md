@@ -1,9 +1,9 @@
-Extended 8 queen problem without backtracking
+Extended 8 queens problem without backtracking
 ===================
 
 About the project
 -------------
-This project is an attempt to solve the 8 queen problem without backtracking. You also have the ability to define the size of the chess board, choose which type of piece you want to use (`queen`, `rook` or `bishop`) and how many of them you want the program to put on board (the goal). 
+This project is an attempt to solve the 8 queens problem without backtracking. You also have the ability to define the size of the chess board, choose which type of piece you want to use (`queen`, `rook` or `bishop`) and how many of them you want the program to put on board (the goal). 
 
 Board notations
 -------------
